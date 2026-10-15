@@ -766,7 +766,7 @@ color : #2b2118;
 
 /* ------------------------------------------------------ search box */
 
-.search-wrap { position: relative; z-index: 1; flex: 1; min-width: 200px; }
+.search-wrap { position: relative; flex: 1; min-width: 200px; }
 .search-wrap .search { width: 100%; }
 
 .suggest-box {
